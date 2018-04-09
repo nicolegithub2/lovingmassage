@@ -360,7 +360,7 @@
           "_name": "contacts2",
           "_anchor": "contacts2-5",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
@@ -767,7 +767,7 @@
           "_name": "contacts2",
           "_anchor": "contacts2-5",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
