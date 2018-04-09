@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lovingmassage",
-    "currentPage": "httplovingmassage.com",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -36,7 +36,8 @@
     "sitemapSwitcher": "on",
     "mcShopcart": {
       "email": "nbpayment123@gmail.com"
-    }
+    },
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "Sessions": {
@@ -381,7 +382,7 @@
         }
       ]
     },
-    "httplovingmassage.com": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "",
