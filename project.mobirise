@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lovingmassage",
-    "currentPage": "home",
+    "currentPage": "httplovingmassage.com",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -381,7 +381,7 @@
         }
       ]
     },
-    "home": {
+    "httplovingmassage.com": {
       "settings": {
         "main": true,
         "title": "",
