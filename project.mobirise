@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lovingmassage",
-    "currentPage": "Sessions",
+    "currentPage": "Contact and book",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -117,7 +117,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/99cabc-7ec74df357dc49329a54cdc6bd4125cemv2-d-3379-2760-s-4-22j-167x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-8937-1400x924.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "http://lovingmassage.com",
@@ -295,13 +295,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#ed5453"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#f17473!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#f28281"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -335,12 +335,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/99cabc-7ec74df357dc49329a54cdc6bd4125cemv2-d-3379-2760-s-4-22j-167x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-8937-1400x924.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "http://lovingmassage.com",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -563,7 +562,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/99cabc-7ec74df357dc49329a54cdc6bd4125cemv2-d-3379-2760-s-4-22j-167x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-8937-1400x924.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "http://lovingmassage.com",
