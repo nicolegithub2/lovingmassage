@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lovingmassage",
-    "currentPage": "index.html",
+    "currentPage": "Sessions",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 12,
+    "uniqCompNum": 13,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -134,6 +134,114 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home#features3-7\">Sessions</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home#instagram-feed-block-b\">Pictures</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home#contacts2-5\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=20.0&amp;item_name=Massage+deposit+&amp;currency_code=CAD\" target=\"_blank\">BUY</a></li>"
         },
         {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "columns": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#f28281",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f28281",
+            "overlayOpacity": "0.6"
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x900.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x900.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "file:///C:/Users/Owner/AppData/Local/Mobirise.com/Mobirise/projectData/watermarked-_mg_8245_small-600x900_1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "file:///C:/Users/Owner/AppData/Local/Mobirise.com/Mobirise/projectData/watermarked-18516191_10211116808308118_1756952616_n-600x900_1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Relaxing massage&nbsp;",
+          "subtitle1": "One hour minimum &nbsp;",
+          "caption1": "Come visit me and come for a relaxing, smoothing massage that focuses on your bodies aches and pains.&nbsp;<br>1 hour £99<br>2 hours&nbsp;£179<br>Contact me to enquire about online discounts<br><br>+447923893465<br>",
+          "title2": "Other sessions",
+          "subtitle2": "One hour minimum",
+          "caption2": "Step into my place and let all your worries, tension, and stress all slip away. Ask for further details on the following sessions. &nbsp;<br>1 hour cuddles starts at&nbsp;£49<br>1 hour massage skill exchange £149&nbsp;<br><br>+447923893465<br>",
+          "title3": "Couples massage",
+          "subtitle3": "One hour minimum",
+          "caption3": "Want to have some relaxing time with a bit of fun with your partner? Come see me and lets help give both partners a sensual massage. <br>1 hour starts at $149<br>2 hours $249&nbsp;<br>",
+          "title4": "Social &amp; massage",
+          "subtitle4": "Starts at 2 and a half hours",
+          "caption4": "This is the perfect session for those that would like to get to know me a little bit more before we start the massage. Lets, relax, chill, eat, and drink together while disusing the perfect way to give you a massage. There are options to visit you, go on a trip, or spend the night over at yours or mine. <br>2.5 hours starts at $249 <br>4 hours $349<br>Overnight – Midnight till 9am $349<br>24 hours $999<br>48 hours $1599<br>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"tel:+447923893465\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call</a> <a data-app-btn=\"true\" href=\"tel:+12505880269\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"tel:+447923893465\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call</a> <a data-app-btn=\"true\" href=\"tel:+12505880269\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -146,117 +254,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "features3-3",
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
-            "paddingTop": "3",
-            "paddingBottom": 2,
-            "columns": 4,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333-2.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#f28281",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#f28281",
-            "overlayOpacity": "0.7"
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8549-small-600x900.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Relaxing massage &amp;/or cuddles",
-          "subtitle1": "One hour minimum &nbsp;",
-          "caption1": "Come visit me and come for a relaxing, smoothing massage that focuses on your bodies aches and pains. You can also just come over for some cuddle time and we can chill and relax next to each other. <br>1 hour starts at $79<br>2 hours $149<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8698-small-600x900.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Sensual massage",
-          "subtitle2": "One hour minimum",
-          "caption2": "Step into Nicole's home and let all your worries, tension, and stress all slip away. You body will be touched with care and pleasure, to help you feel pure enjoyable sensations, in a comfortable and relaxed setting. <br>1 hour starts at $99<br>2 hours $179<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8245-small-600x900.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Couples massage",
-          "subtitle3": "One hour minimum",
-          "caption3": "Want to have some relaxing time with a bit of fun with your partner? Come see me and lets help give both partners a sensual massage. <br>1 hour starts at $149<br>2 hours $249&nbsp;<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/watermarked-18516191-10211116808308118-1756952616-n-600x900.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "Social, massage, and trips",
-          "subtitle4": "Starts at 2 and a half hours",
-          "caption4": "This is the perfect session for those that would like to get to know me a little bit more before we start the massage. Lets, relax, chill, eat, and drink together while disusing the perfect way to give you a massage. There are options to visit you, go on a trip, or spend the night over at yours or mine. <br>2.5 hours starts at $249 <br>4 hours $349<br>Overnight – Midnight till 9am $349<br>24 hours $999<br>48 hours $1599<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "_anchor": "features3-c"
         }
       ]
     },
