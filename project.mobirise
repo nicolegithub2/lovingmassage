@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lovingmassage",
-    "currentPage": "Contact and book",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -642,7 +642,7 @@
           },
           "title2": "Other sessions",
           "subtitle2": "One hour minimum",
-          "caption2": "Step into my place and let all your worries, tension, and stress all slip away. Ask for further details on the following sessions. &nbsp;<br>1 hour cuddles starts at&nbsp;£49<br>1 hour massage skill exchange £149&nbsp;<br><br>+447923893465<br>",
+          "caption2": "Step into my place and let all your worries, tension, and stress all slip away. Ask for further details on the following sessions. &nbsp;<br>1 hour cuddles starts at&nbsp;£49&nbsp;<br><br>+447923893465<br><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"tel:+447923893465\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call</a> <a data-app-btn=\"true\" href=\"tel:+12505880269\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
           "media3": {
             "image": {
