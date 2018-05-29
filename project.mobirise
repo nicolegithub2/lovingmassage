@@ -446,7 +446,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-2000x2995.jpg",
+              "src": "@PROJECT_PATH@/assets/images/watermarked-33098177-10213965287678322-3327294993659330560-n-2-1344x1351.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -628,7 +628,7 @@
           "title1": "Relaxing massage&nbsp;",
           "subtitle1": "One hour minimum &nbsp;",
           "caption1": "Come visit me and come for a relaxing, smoothing massage that focuses on your bodies aches and pains.&nbsp;<br>1 hour £99<br>2 hours&nbsp;£179<br>Contact me to enquire about online discounts<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"tel:+447923893465\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call</a> <a data-app-btn=\"true\" href=\"tel:+12505880269\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
+          "button1": " <a data-app-btn=\"true\" href=\"tel:+12505880269\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-600x900.jpg",
@@ -643,7 +643,7 @@
           "title2": "Other sessions",
           "subtitle2": "One hour minimum",
           "caption2": "Step into my place and let all your worries, tension, and stress all slip away. Ask for further details on the following sessions. &nbsp;<br>1 hour cuddles starts at&nbsp;£49&nbsp;<br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"tel:+447923893465\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call</a> <a data-app-btn=\"true\" href=\"tel:+12505880269\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
+          "button2": " <a data-app-btn=\"true\" href=\"tel:+12505880269\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
           "media3": {
             "image": {
               "src": "file:///C:/Users/Owner/AppData/Local/Mobirise.com/Mobirise/projectData/watermarked-_mg_8245_small-600x900_1.jpg",
