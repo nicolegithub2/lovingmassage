@@ -130,7 +130,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lovingmassage.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Loving Massage<br>Located in Central London<br>&nbsp; +447923893465</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lovingmassage.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Loving Massage<br>Located in Central London<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home#features3-7\">Sessions</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home#instagram-feed-block-b\">Pictures</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home#contacts2-5\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=20.0&amp;item_name=Massage+deposit+&amp;currency_code=CAD\" target=\"_blank\">BUY</a></li>"
         },
         {
@@ -347,7 +347,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lovingmassage.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Loving Massage<br>Located in Central London<br>&nbsp; +447923893465</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lovingmassage.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Loving Massage<br>Located in Central London<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home#features3-7\">Sessions</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home#instagram-feed-block-b\">Pictures</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home#contacts2-5\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=20.0&amp;item_name=Massage+deposit+&amp;currency_code=CAD\" target=\"_blank\">BUY</a></li>"
         },
         {
@@ -374,7 +374,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>Located in central London - C0ntact me for the address<br><br><br>\n<strong>Contacts</strong><br>\nEmail: blissonblissinfo@gmail.com<br>\nPhone: +447923893465<br>",
+          "text1": "<strong>Address</strong><br>Located in central London - C0ntact me for the address<br><br><br>\n<strong>Contacts</strong><br>\nEmail: blissonblissinfo@gmail.com<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><p><a class=\"text-white\" href=\"http://www.comeadventure.com\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(225, 141, 140);\" target=\"_blank\">Travel website</a><br></p><p><br></p></ul>"
         }
       ]
@@ -575,7 +575,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lovingmassage.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Loving Massage<br>Located in Central London<br>&nbsp; +447923893465</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lovingmassage.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Loving Massage<br>Located in Central London<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home#features3-7\">Sessions</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home#instagram-feed-block-b\">Pictures</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home#contacts2-5\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=20.0&amp;item_name=Massage+deposit+&amp;currency_code=CAD\" target=\"_blank\">BUY</a></li>"
         },
         {
@@ -627,7 +627,7 @@
           },
           "title1": "Relaxing massage&nbsp;",
           "subtitle1": "One hour minimum &nbsp;",
-          "caption1": "Come visit me and come for a relaxing, smoothing massage that focuses on your bodies aches and pains.&nbsp;<br>1 hour £99<br>2 hours&nbsp;£179<br>Contact me to enquire about online discounts<br><br>+447923893465<br>",
+          "caption1": "Come visit me and come for a relaxing, smoothing massage that focuses on your bodies aches and pains.&nbsp;<br>1 hour £99<br>2 hours&nbsp;£179<br>Contact me to enquire about online discounts<br>",
           "button1": "<a data-app-btn=\"true\" href=\"tel:+447923893465\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call</a> <a data-app-btn=\"true\" href=\"tel:+12505880269\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
           "media2": {
             "image": {
@@ -642,7 +642,7 @@
           },
           "title2": "Other sessions",
           "subtitle2": "One hour minimum",
-          "caption2": "Step into my place and let all your worries, tension, and stress all slip away. Ask for further details on the following sessions. &nbsp;<br>1 hour cuddles starts at&nbsp;£49&nbsp;<br><br>+447923893465<br><br><br>",
+          "caption2": "Step into my place and let all your worries, tension, and stress all slip away. Ask for further details on the following sessions. &nbsp;<br>1 hour cuddles starts at&nbsp;£49&nbsp;<br><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"tel:+447923893465\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call</a> <a data-app-btn=\"true\" href=\"tel:+12505880269\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
           "media3": {
             "image": {
@@ -781,7 +781,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>Located in central London - C0ntact me for the address<br><br><br>\n<strong>Contacts</strong><br>\nEmail: blissonblissinfo@gmail.com<br>\nPhone: +447923893465<br>",
+          "text1": "<strong>Address</strong><br>Located in central London - C0ntact me for the address<br><br><br>\n<strong>Contacts</strong><br>\nEmail: blissonblissinfo@gmail.com<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><p><a class=\"text-white\" href=\"http://www.comeadventure.com\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(225, 141, 140);\" target=\"_blank\">Travel website</a><br></p><p><br></p></ul>"
         },
         {
